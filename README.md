@@ -1,6 +1,6 @@
-# project-team-AI-
+# project-AI-Group12
 Dự án về nhận diện biển số xe
-# project-team-AI
+# project-AI-Group12
 Dự án về nhận diện biển số xe
 LicensePlateRecognition/
 │
